@@ -24,6 +24,9 @@ Antena Externa é uma boa solução para dar mais estabilidade para seu hotspot.
 
 ### Como os Hotspots ganham HNT e quantos irei ganhar?
 
+### Quais e quantos Hotspots há próximo da minha região?
+Acesso o site [Helium Explorer](https://explorer.helium.com/) e clique no link de centralização do mapa :white_circle: ou pesquise pelo endereço desejado no campo de busca.
+
 ### Se na minha região não tem nenhum Hotspot, mesmo assim poderei minerar?
 
 ### Quais tipos de antenas existem?
