@@ -8,8 +8,11 @@ Esses Hotspots fazem um trabalho de minteração da Helium Blockchain recebendo 
 Você pode imaginar a rede Helium como se fosse uma grande rede Wi-Fi cujo principal objetivo é fornecer acesso Internet a dispositivos IoT
 
 ### O que é um Hotspot Helium?
+Os hotspots de helium são dispositivos de hardware originais que permitem a qualquer pessoa possuir e operar sua própria rede sem fio, que chamamos de Rede do Povo. Os hotspots de helium podem 🔨minar uma nova criptomoeda, $ HNT, e criar cobertura de rede sem fio para dispositivos de Internet das Coisas (IoT).
 
 ### Requisitos básicos para instalar um Hotspot?
+Pra ligar o equipamento vc vai precisar de energia e Internet.
+Antena Externa é uma boa solução para dar mais estabilidade para seu hotspot. Padrão usado no Brasil é o AU915.
 
 ### Onde posso comprar esses Hotspots?
 
