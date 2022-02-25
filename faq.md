@@ -24,3 +24,22 @@ Você pode imaginar a rede Helium como se fosse uma grande rede Wi-Fi cujo princ
 ### Quais tipos de antenas existem?
 
 ### Como faço para alterar a localização do meu Hotspot?
+
+### O que é dB, dBm e dBi?
+
+### Qual atenuação de sinal de acordo com alguns tipos de obstáculos?
+| Material                         | Atenuação (dB)[^1] |
+| :---                             | :---:          |
+| Vidro (6mm)                      |     0,8        |
+| Vidro (13mm)                     |     2,0        |
+| Madeira (76mm)                   |     2,8        |
+| Parede Tijolo (89mm)             |     3,5        |
+| Parede Tijolo (178mm)            |     5,0        |
+| Parede Tijolo (267mm)            |     7,0        |
+| Concreto (102mm)                 |     12,0       |
+| Parede Tij. Concreto (192mm)     |     14,0       |
+| Concreto (203mm)                 |     23,0       |
+
+
+
+[^1]: Tabela traduzida desse [site](https://smartmakers.io/en/lorawan-range-part-1-the-most-important-factors-for-a-good-lorawan-signal-range/)
