@@ -45,6 +45,29 @@ A maioria dos hotspots vem com uma antena para uso interno de grande amplitude m
 ### Como faço para alterar a localização do meu Hotspot?
 
 ### O que é dB, dBm e dBi?
+#### dB
+O Decibel (dB) é uma unidade de comparação entre duas medidas. Por exemplo, quando você quer informar que uma medida é 2 vezes maior ou menor que outra, você pode usar o valor de 3dB (1	.995 ≈ 2). 
+Ex. Uma fonte que gera 100 watts teve uma atenuação de 3dB no cabo e no final ficou com apenas 50 watts.
+
+#### dBm
+O dBm é uma unidade de medida logarítima, comparativa com 1mW (um mili watt) para definir a potência absoluta de um transmissor/receptor utilizado em telecomunicações. 
+Os valores mais comuns são:
+| Nível de potência                | Potência      |
+| ---:                             |  ---:         |
+| 50dBm                            | 100 W         |
+| 40dBm                            | 10 W          |
+| 30dBm                            | 1 W           |
+| 20dBm                            | 100 mW        |
+| 10dBm                            | 10 mW         |
+| 6dBm                             | 4 mW          |
+| 3dBm                             | 2 mW          |
+| 0dBm                             | 1 mW          |
+| -3dBm                            | 0,5 mW        |
+| -6dBm                            | 0,25 mW       |
+| -10dBm                           | 0,1 mW        |
+| -20dBm                           | 0,01 mW       |
+
+### dBi
 
 ### Qual atenuação de sinal de acordo com alguns tipos de obstáculos?
 | Material                         | Atenuação (dB)[^1] |
