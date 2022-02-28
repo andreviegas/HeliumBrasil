@@ -17,19 +17,30 @@ Pra ligar o equipamento vc vai precisar de energia e Internet.
 Antena Externa é uma boa solução para dar mais estabilidade para seu hotspot. Padrão usado no Brasil é o AU915.
 
 ### Onde posso comprar esses Hotspots?
+Hoje, por conta da escazzes de componentes eletrônicos, é complicado achar os hotspots a pronta entrega. 
+Os fornecedores oficiais estão na págiga https://www.helium.com/mine. 
+Evite comprar de sites não oficiais!
+Na página [Adquirir Equipamentos](https://github.com/andreviegas/HeliumBrasil/blob/main/adquirir-equipamentos.md) há mais dicas sobre isso.
 
 ### O Hotspot Helium substitui o roteador Wi-Fi da minha casa?
+De forma alguma, são dois equipamentos totalmente distintos. 
 
 ### Que tipo de criptomoeda eu irei receber usando o Hotspot?
+Os Hotspots mineram a moeda HNT, única moeda que receberá minerando na rede Helium.
 
 ### Como os Hotspots ganham HNT e quantos irei ganhar?
+Há basicamente duas formas de ganhar HNTs após ter instalado seu Hotspot. 
+A primeira é fornecendo uma prova de cobertura, fazendo uma conexão com outros hotsposts confirmando sua localização e estabilidade. A ideia aqui é os hotspots mutuamente confirmarem a presença de seus vizinhos. 
+A segunda forma de receber HNTs é fornecendo banda de internet para dispositivos IoT que estejam dentro da sua área de cobertura. 
 
 ### Quais e quantos Hotspots há próximo da minha região?
 Acesso o site [Helium Explorer](https://explorer.helium.com/) e clique no link de centralização do mapa :white_circle: ou pesquise pelo endereço desejado no campo de busca.
 
 ### Se na minha região não tem nenhum Hotspot, mesmo assim poderei minerar?
+Não há nenhum impecílio de você ser o primeiro a instalar um hotspot na sua região! Entretanto seus ganhos serão muito baixo ou mesmo inexistente já que não haverá outro hotspot próximo para validar sua localização e corbertura.
 
 ### Quais tipos de antenas existem?
+A maioria dos hotspots vem com uma antena para uso interno de grande amplitude mas baixo alcance, normalmente abaixo dos 5dBi. É possível colocar uma antena de maior ganho, até cerca de 9dBi tanto no interior da sua residência quanto no lado externo, utilizando normalmente cabos para isso.
 
 ### Como faço para alterar a localização do meu Hotspot?
 
