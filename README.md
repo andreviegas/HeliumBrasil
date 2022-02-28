@@ -5,4 +5,4 @@ Local para compartilhamento de informações e arquivos relacionados a rede Heli
 
 ## [Sites Úteis](https://github.com/andreviegas/HeliumBrasil/blob/main/sites-uteis.md)
 
-## [Onde e como adquirir equipamentos](https://github.com/andreviegas/HeliumBrasil/blob/main/adquirir-equipamentos.md)
+## [Onde e como Adquirir Equipamentos](https://github.com/andreviegas/HeliumBrasil/blob/main/adquirir-equipamentos.md)
