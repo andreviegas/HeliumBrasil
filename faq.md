@@ -88,6 +88,10 @@ Lembrando que mesmo uma antena omnidirecional, que irradia sinal em seus 360 gra
 
 ### Como usar esses conceitos acima sobre telecomunicação.
 
+### Principais conectores utilizados em RF
+
+![Principais%20conectores%20RF.jpg](https://github.com/andreviegas/HeliumBrasil/blob/882fa520898634ff32fe2c657d2182a5a98c1207/imagens/Principais%20conectores%20RF.jpg)
+
 
 
 [^1]: Tabela traduzida desse [site](https://smartmakers.io/en/lorawan-range-part-1-the-most-important-factors-for-a-good-lorawan-signal-range/)
