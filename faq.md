@@ -67,7 +67,11 @@ Os valores mais comuns são:
 | -10dBm                           | 0,1 mW        |
 | -20dBm                           | 0,01 mW       |
 
-### dBi
+#### dBi
+De forma similar ao que foi explicado sobre dBm, dBi é uma medida logarítima, comparativamente com uma antena isotrópicos ideal (aquela cuja radiação se dar esféricamente em todas as direções). Ou seja, uma antena cuja radiação se dá igualmente em todos os sentidos (similar a luz irradiada pelo sol), sem qualquer direcionamento, possui 0 dBi.
+Já uma antena cujo projeto criou algum tipo de concentração e direcionamento da radiação, terá um dBi positivo, indicando o grau de concentração de sinal foi feito.
+
+Lembrando que mesmo uma antena omnidirecional, que irradia sinal em seus 360 graus, há um direcionamento para que a radiação não vá para cima nem para baixo. 
 
 ### Qual atenuação de sinal de acordo com alguns tipos de obstáculos?
 | Material                         | Atenuação (dB)[^1] |
@@ -81,6 +85,8 @@ Os valores mais comuns são:
 | Concreto (102mm)                 |     12,0       |
 | Parede Tij. Concreto (192mm)     |     14,0       |
 | Concreto (203mm)                 |     23,0       |
+
+### Como usar esses conceitos acima sobre telecomunicação.
 
 
 
