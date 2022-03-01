@@ -42,8 +42,6 @@ Não há nenhum impecílio de você ser o primeiro a instalar um hotspot na sua 
 ### Quais tipos de antenas existem?
 A maioria dos hotspots vem com uma antena para uso interno de grande amplitude mas baixo alcance, normalmente abaixo dos 5dBi. É possível colocar uma antena de maior ganho, até cerca de 9dBi tanto no interior da sua residência quanto no lado externo, utilizando normalmente cabos para isso.
 
-### Como faço para alterar a localização do meu Hotspot?
-
 ### O que é dB, dBm e dBi?
 #### dB
 O Decibel (dB) é uma unidade de comparação entre duas medidas. Por exemplo, quando você quer informar que uma medida é 2 vezes maior ou menor que outra, você pode usar o valor de 3dB (1	.995 ≈ 2). 
@@ -93,6 +91,17 @@ Lembrando que mesmo uma antena omnidirecional, que irradia sinal em seus 360 gra
 | RGC213                           |     0,17         |
 
 ### Como usar esses conceitos acima sobre telecomunicação.
+- Vamos imaginar que você possua um Hotspot que tenha uma potencia de 27dBm. 
+- Na sua residência, você possui duas opções para instalar uma antena omnidirecional de longo alcance 6dBi:
+- Iremos considerar apenas a radiação que ficará a frente da antena (180 graus), considerando que não necessitamos cobertura para a parte de trás da sua residencia.
+
+#### Internamente na frente de uma janela cujo vidro possui 6mm e espessura e utilizando 2m de cabo RG58
+Considerando que a fonte de radiação possui 27dBm, somando com o ganho da antena 6dBi e reduzindo a atenuação de 0,8dB do cabo, teremos:
+27dB + 6dB - 0,8dB = 32,2dBm
+Tivemos um ganho de pouco mais de 5dBm no sinal 
+
+#### Externamente mas será necessário usar 10m cabo RG58
+
 
 ### Principais conectores utilizados em RF
 
