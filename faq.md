@@ -86,6 +86,12 @@ Lembrando que mesmo uma antena omnidirecional, que irradia sinal em seus 360 gra
 | Parede Tij. Concreto (192mm)     |     14,0       |
 | Concreto (203mm)                 |     23,0       |
 
+### Qual atenuação de sinal de acordo com o tipo de cabo?
+| Material                         | Atenuação (dB/m) |
+| :---                             | :---:            |
+| RG58/RGC58                       |     0,4          |
+| RGC213                           |     0,17         |
+
 ### Como usar esses conceitos acima sobre telecomunicação.
 
 ### Principais conectores utilizados em RF
