@@ -95,13 +95,17 @@ Lembrando que mesmo uma antena omnidirecional, que irradia sinal em seus 360 gra
 - Na sua residência, você possui duas opções para instalar uma antena omnidirecional de longo alcance 6dBi:
 - Iremos considerar apenas a radiação que ficará a frente da antena (180 graus), considerando que não necessitamos cobertura para a parte de trás da sua residencia.
 
-#### Internamente na frente de uma janela cujo vidro possui 6mm e espessura e utilizando 2m de cabo RG58
-Considerando que a fonte de radiação possui 27dBm, somando com o ganho da antena 6dBi e reduzindo a atenuação de 0,8dB do cabo, teremos:
-27dB + 6dB - 0,8dB = 32,2dBm
-Tivemos um ganho de pouco mais de 5dBm no sinal 
+#### Internamente na frente de uma janela cujo vidro possui 6mm e espessura e utilizando 1m de cabo RG58
+Considerando que a fonte de radiação possui 27dBm, somando com o ganho da antena 6dBi e reduzindo a atenuação de 0,8dB do vidro e 0,4 do cabo teremos:
+27dBm + 6dBi - 0,8dB - 0,4db = 31,8dBm
+
+Houve um ganho de quase de 5dBm no sinal.
 
 #### Externamente mas será necessário usar 10m cabo RG58
+Considerando que a fonte de radiação possui 27dBm, mais 6dBi de ganho da antena e reduzindo a atenuação nos 10m de cabo, teremos:
+27dBm + 6dBi - 4dB = 29dBm
 
+Houve um ganho de apenas 3dBm no sinal.
 
 ### Principais conectores utilizados em RF
 
