@@ -12,6 +12,10 @@ Você pode imaginar a rede Helium como se fosse uma grande rede Wi-Fi cujo princ
 ### O que é um Hotspot Helium?
 Os hotspots de helium são dispositivos de hardware originais que permitem a qualquer pessoa possuir e operar sua própria rede sem fio, que chamamos de Rede do Povo. Os hotspots de helium podem 🔨minar uma nova criptomoeda, $ HNT, e criar cobertura de rede sem fio para dispositivos de Internet das Coisas (IoT).
 
+### Quanto Custa um Hotspot Helium mais barato e quantos HNT ele faz por mês?
+Aqui no Brasil, um hotspot novo sai um pouco mais de US$1100,00 e a quantidade de HNTs que ele irá minerar dependem de vários fatores, sendo os mais importantes, a localização e o posicionamento da antena. Não é incomum ver hotspots produzindo menos de 1 HNT por mês por conta disso!
+Sugerimos estudar melhor a tecnologia e monitorar os Hotspots que estão próximos da sua região para entender melhor o potencial de ganho que terá. 
+
 ### Requisitos básicos para instalar um Hotspot?
 Pra ligar o equipamento vc vai precisar de energia e Internet.
 Antena Externa é uma boa solução para dar mais estabilidade para seu hotspot. Padrão usado no Brasil é o AU915.
